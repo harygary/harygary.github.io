@@ -23,8 +23,8 @@ title: harygary
 # 'description' and 'keywords' simply set the corresponding meta tags,
 # 'crawl' is the 'Robots' tag http://www.robotstxt.org/meta.html
 robots:
-    description: One line of text describing the content of the page in less than 140 characters.
-    keywords: foo, bar, baz
+    description:
+    keywords:
     crawl: index,follow
 
 # website address when deployed, also given as canonical link
